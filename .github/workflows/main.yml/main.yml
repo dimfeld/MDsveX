@@ -30,4 +30,4 @@ jobs:
       - run: yarn build
         env:
           CI: true
-          name: Budibase CI
+          name: mdsvex
